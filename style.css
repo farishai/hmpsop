@@ -108,7 +108,7 @@ th {
     }
 
     h2 {
-        font-size: 26px;
+        font-size: 21px;
     }
 
     table {
@@ -143,17 +143,17 @@ th {
         padding: 10px;
         text-align: justify;
         line-height: 30px;
-        font-size: 12px;
+        font-size: 17px;
     }
     
     th {
-        font-size: 15px;
+        font-size: 17px;
         border-bottom: 1px solid #000;
 
     }
 
-    .order a {
-        font-size: 15px;
+    .order li a {
+        font-size: 17px;
     }
 
 }

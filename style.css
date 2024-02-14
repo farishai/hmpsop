@@ -75,6 +75,7 @@ table {
 
 td {
     padding: 20px;
+    vertical-align: top;
     text-align: justify;
     line-height: 30px;
 }

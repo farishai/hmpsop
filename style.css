@@ -85,6 +85,10 @@ th {
     border-bottom: 1px solid #000;
 }
 
+.sop-number {
+    font-size: 24px;
+}
+
 .inactive {
     color: #ebebe0;
 }
